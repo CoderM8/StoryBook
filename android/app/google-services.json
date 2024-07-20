@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "454535986794",
+    "project_id": "wixpod",
+    "storage_bucket": "wixpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454535986794:android:cb52f4b3b3d85b4f429413",
+        "android_client_info": {
+          "package_name": "com.wixpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454535986794-en6g414pl3vmc4l52ldhoav346api8ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wixpod",
+            "certificate_hash": "1f802016b792face88b608cc27ff93ffee3177f9"
+          }
+        },
+        {
+          "client_id": "454535986794-qhc46u0hukrc7ssuae961ifl4ppp0u5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wixpod",
+            "certificate_hash": "905065d0f41f3878c93ba73466007947b6953ade"
+          }
+        },
+        {
+          "client_id": "454535986794-sm66k6j680qtoloamaqcjtbadk90s4rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wixpod",
+            "certificate_hash": "a1c48fbed866a41f3a035f7890b6652fc104050e"
+          }
+        },
+        {
+          "client_id": "454535986794-sq23o0mb4drkv8sfosg6trdg3a69enom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wixpod",
+            "certificate_hash": "e825f40dc28ac83f54dc19bfbfc7d6dcb6bca935"
+          }
+        },
+        {
+          "client_id": "454535986794-c79bhq81vgom825vecvfp4mm2c3l27n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEk1thhwghEvaVDXb1MWL1n1IRbUz-3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454535986794-c79bhq81vgom825vecvfp4mm2c3l27n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454535986794-f04kv6j6gtihdlldi87t4nnjt07tngsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wixpod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
