@@ -16,6 +16,10 @@ import 'package:html/parser.dart';
 import 'package:wixpod/model/subscription_model/getsubscription_model.dart';
 import 'package:wixpod/services/all_services.dart';
 
+//# Demo Account
+//userwixpod@gmail.com
+//123456
+
 /// Color
 const Color shimmerGray = Color(0xffd2cece);
 const Color blackColor = Colors.black;
